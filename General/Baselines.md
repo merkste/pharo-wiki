@@ -178,7 +178,7 @@ spec
 
 ##### Depend on a subset of a git project
 
-Some projects can defines `groups` in their baselines. They are subsets of the project that can be loaded independently.
+Projects can define `groups` in their baselines. They are subsets of the project that can be loaded independently.
 The previous snippet can also be customized to load only a specific group of the dependency like this:
 
 
